@@ -8,3 +8,19 @@
 section {
   padding-top: 5rem;
 }
+
+.profile-img {
+  display: block;
+  background: url('img/9\ Bagaskara.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: 0 auto;
+  outline: auto;
+  outline-color: white;
+  /* z-index: 99;
+   */
+}
